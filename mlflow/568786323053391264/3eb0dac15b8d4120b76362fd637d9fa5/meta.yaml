@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/3eb0dac15b8d4120b76362fd637d9fa5/artifacts
+end_time: 1742847895775
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: 3eb0dac15b8d4120b76362fd637d9fa5
+run_name: gaudy-loon-2
+run_uuid: 3eb0dac15b8d4120b76362fd637d9fa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742847886553
+status: 3
+tags: []
+user_id: root

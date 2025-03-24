@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742848198200
+current_stage: None
+description: null
+last_updated_timestamp: 1742848198200
+name: sentiment_analysis_pipeline
+run_id: 17289822c23c4c60b57e93a67a0cfe31
+run_link: null
+source: file:///content/Practica/mlflow/229022952465682317/17289822c23c4c60b57e93a67a0cfe31/artifacts/sentiment_analysis
+status: READY
+status_message: null
+storage_location: file:///content/Practica/mlflow/229022952465682317/17289822c23c4c60b57e93a67a0cfe31/artifacts/sentiment_analysis
+user_id: null
+version: 4

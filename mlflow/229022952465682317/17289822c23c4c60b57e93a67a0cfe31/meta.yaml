@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/229022952465682317/17289822c23c4c60b57e93a67a0cfe31/artifacts
+end_time: 1742848198215
+entry_point_name: ''
+experiment_id: '229022952465682317'
+lifecycle_stage: active
+run_id: 17289822c23c4c60b57e93a67a0cfe31
+run_name: charming-croc-142
+run_uuid: 17289822c23c4c60b57e93a67a0cfe31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742848187320
+status: 3
+tags: []
+user_id: root
